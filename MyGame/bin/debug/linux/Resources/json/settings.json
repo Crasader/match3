@@ -1,0 +1,20 @@
+{
+	"text"	:	{
+		"font"		:	"fonts/arial.ttf",
+		"bigtext"	:	51,
+		"smalltext"	: 	28
+	},
+	"button"	:	{
+		"png1began"		:	"res/main1.png",
+		"png1end"		:	"res/main2.png",
+		"png2began"		:	"res/button1.png",
+		"png2end"		:	"res/button2.png",
+		"png3began"		:	"res/l.png",
+		"png3end"		:	"res/l.png",
+		"pngback1"		:	"res/buttback.png",
+		"pngback2"		:	"res/buttback.png",
+		"Closebegin"	: 	"res/CloseNormal.png",
+		"Closeend"		: 	"res/CloseSelected.png"
+	},
+	"background"	:	"res/1.jpg"
+}

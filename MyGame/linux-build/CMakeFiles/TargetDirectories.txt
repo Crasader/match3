@@ -1,0 +1,11 @@
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/xxhash/CMakeFiles/xxhash.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/cocos/CMakeFiles/cocos2dInternal.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/recast/CMakeFiles/recast.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/unzip/CMakeFiles/unzip.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/cocos/CMakeFiles/cocos2d.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/tinyxml2/CMakeFiles/tinyxml2.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/CMakeFiles/MyGame.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/CMakeFiles/MyGame_CORE_PRE_BUILD.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/CMakeFiles/MyGame_PRE_BUILD.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/flatbuffers/CMakeFiles/flatbuffers.dir
+/home/misha/prog/cocos2d-x/projects/mygame/MyGame/linux-build/cocos2d/external/bullet/CMakeFiles/bullet.dir

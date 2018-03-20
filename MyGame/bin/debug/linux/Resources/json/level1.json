@@ -1,0 +1,15 @@
+{
+    "timevall"  : 0,
+    "act"       : 0,
+    "points"    : 100,
+    "mass"      : [
+        true,  true,  true,  true, true,  true,  true,  true,
+        true,  true,  true,  true, true,  true,  true,  true,
+        true,  true,  true,  false, true,  true,  true,  true,
+        true,  true,  false,  true, false,  true,  true,  true,
+        true,  true,  true,  false, true,  true,  true,  true,
+        true,  true,  true,  true, true,  true,  true,  true,
+        true,  true,  true,  true, true,  true,  true,  true,
+        true,  true,  true,  true, true,  true,  true,  true
+    ]
+}
